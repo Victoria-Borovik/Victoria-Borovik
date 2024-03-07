@@ -1,7 +1,7 @@
 ## About me
 I like order and optimality. Programming is the way to express that in my profession.
 
-+ I'm based in Saint Petersburg, Russia.
++ Based in Saint Petersburg, Russia.
 + Looking for a job as a junior Frontend Developer - [CV](https://cv.hexlet.io/ru/resumes/3318).
 + Study at Hexlet IT School.
 + I have a Bachelor's Degree in Logistics and 5 years of experience as a Supply Engineer.
