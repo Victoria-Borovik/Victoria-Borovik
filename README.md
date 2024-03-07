@@ -6,7 +6,7 @@ I like order and optimality. Programming is the way to express that in my profes
 + Study at Hexlet IT School.
 + I have a Bachelor's Degree in Logistics and 5 years of experience as a Supply Engineer.
 
-Contact Info:
+###Contact Info:
 + borovik.va111@gmail.com
 + https://t.me/vikaborovika
 
@@ -20,12 +20,12 @@ Contact Info:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Projects
-+ [Brain Games](https://github.com/Victoria-Borovik/frontend-project-44)
++ [Brain Games](https://github.com/Victoria-Borovik/frontend-project-44)\
 A set of five math command line games warming up your brain.
 
-+ [Get Difference](https://github.com/Victoria-Borovik/frontend-project-46)
++ [Get Difference](https://github.com/Victoria-Borovik/frontend-project-46)\
 Compares two configuration files and shows a difference. Supports .json and .yml formats.
 
-+ [News aggregator](https://github.com/Victoria-Borovik/frontend-project-11)
++ [News aggregator](https://github.com/Victoria-Borovik/frontend-project-11)\
 Aggregates RSS feeds in one location and keeps track of its updates.
   
