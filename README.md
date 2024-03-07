@@ -6,7 +6,7 @@ I like order and optimality. Programming is the way to express that in my profes
 + Study at Hexlet IT School.
 + I have a Bachelor's Degree in Logistics and 5 years of experience as a Supply Engineer.
 
-### Contact Info:
+#### Contact Info:
 + borovik.va111@gmail.com
 + https://t.me/vikaborovika
 
