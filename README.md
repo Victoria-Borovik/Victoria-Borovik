@@ -2,9 +2,9 @@
 I like order and optimality. Programming is the way to express that in my profession.
 
 + I'm based in Saint Petersburg, Russia.
-+ Looking for a job as a junior Frontend Developer - CV.
-+ Stydy at Hexlet IT School.
-+ I have a Bachelor's Degree in Logistics and 5 years of experience as a Supply Engeneer.
++ Looking for a job as a junior Frontend Developer - [CV](https://cv.hexlet.io/ru/resumes/3318).
++ Study at Hexlet IT School.
++ I have a Bachelor's Degree in Logistics and 5 years of experience as a Supply Engineer.
 
 Contact Info:
 + borovik.va111@gmail.com
@@ -19,13 +19,13 @@ Contact Info:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Progects
-+ Brain Games
+## Projects
++ [Brain Games](https://github.com/Victoria-Borovik/frontend-project-44)
 A set of five math command line games warming up your brain.
 
-+ Get Difference
++ [Get Difference](https://github.com/Victoria-Borovik/frontend-project-46)
 Compares two configuration files and shows a difference. Supports .json and .yml formats.
 
-+ News aggregator
++ [News aggregator](https://github.com/Victoria-Borovik/frontend-project-11)
 Aggregates RSS feeds in one location and keeps track of its updates.
   
