@@ -1,4 +1,3 @@
-# Frontend Developer 
 ## About me
 I like order and optimality. Programming is the way to express that in my profession.
 
